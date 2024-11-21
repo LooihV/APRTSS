@@ -59,7 +59,7 @@ def capture_audio_and_transcribe(file_name):
 
 
 start_time = time.time()
-MAX_DURATION = 13
+MAX_DURATION = 12
 
 while True:
     elapsed_time = time.time() - start_time
